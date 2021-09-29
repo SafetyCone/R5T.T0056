@@ -1,0 +1,3 @@
+R5T.T0056.Construction - Construction project for NamespacedTypeName and other related simple data types..
+
+GOALS:
